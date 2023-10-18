@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Cooper!
 - 🌱 I’m currently studying Computer Science at UNT
-- 👀 I’m interested in ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 You can reach me @ cooper.wiethoff@gmail.com or DMs on most platforms
 
 <!---
 coh-ui/coh-ui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
